@@ -1,1 +1,1 @@
-# Code of DIR coming soon.
+# The code for DIR will be uploaded shortly.
