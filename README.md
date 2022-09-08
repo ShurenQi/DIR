@@ -1,6 +1,6 @@
 # Dense Invariant Representation
 This repository is an implementation of the method in  
-"A principled design of image representation: Towards forensic tasks", *in peer review*, https://arxiv.org/abs/2203.00913.  
+"A principled design of image representation: Towards forensic tasks", *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2022.  
 Code implemented by Shuren Qi ( i@srqi.email ). All rights reserved.
 
 ## Overview
